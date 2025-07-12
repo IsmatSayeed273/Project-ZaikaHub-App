@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536810083364",
+    "project_id": "zaikahub-25029",
+    "storage_bucket": "zaikahub-25029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536810083364:android:9601904262d8c8531234b1",
+        "android_client_info": {
+          "package_name": "com.hello.online_cooking_recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpufyPeoEEQb1VpR8fyKmExzbKEluNbYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
