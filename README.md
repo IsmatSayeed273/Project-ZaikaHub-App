@@ -3,3 +3,4 @@ ZAIKA HUB- inspired by modern platforms like Zomato and Swiggy. that includes a 
  UI Development: XML layouts, Material Design Components, RecyclerView, CardView
  API Integration: Retrofit , Volley
  Databases: Room Database (local), Firebase (Realtime DB + Firestore for cloud + authentication)
+App preview : https://github.com/IsmatSayeed273/Project-ZaikaHub-App/blob/main/ZaikaHubSS.pdf
